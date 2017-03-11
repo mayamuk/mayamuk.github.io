@@ -1,0 +1,39 @@
+<html>
+<head>
+<title> 
+Little Rant
+</title>
+</head>
+<style>
+	body {
+	background-color:blue;
+	}
+	marquee {
+	font-size: 60px;
+}
+	#cool {
+	background-color:yellow;
+	}
+	
+	h1 {
+	font-size: 100px;
+	}
+	a {
+	font color="red"
+	}
+</style>
+<body>
+<marquee> <font color="red"> 
+Welcome to My Rant!
+</marquee
+<hr></hr>
+<hr></hr>
+<h2><font color="red"> Quick Rant</h2>
+<p id="cool"> Github is being extremely 
+annoying and whenever I go to mayamuk.github.io it goes to mukkmuks.com which is empty and so it is dumb<br> 
+because I have code that works but it won't show it and yeah! </p>
+<h2> <center> <font-size: 80px> I'm annoyed because...</h2>
+<ul><center> it won't work</li>
+<li>
+<h1> <center> THIS ISN'T WORKING!</center></h1></marquee>
+</html>
